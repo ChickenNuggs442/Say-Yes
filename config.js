@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I know ive asked and i know you said yes but you mean so much to me and i know you deserved a better ask than that. So thank you so much, not just for saying yes but for everything you do for me. you are so much more than i deserve and i thank whatever brought us together every single day. Thabk you for putting up with me even when im being a dumbass. you mean the world to me, thank you for everything. i really mean it, i hope you liked this",
-        message: "Now come get your gift, a big warm hug and a huge kiss! Idk where you live so i cant really sent you a gift yet i hope this suficss at least for now❤️",
+        title: "I know ive asked and i know you said yes but you mean so much to me and i know you deserved a better ask than that. So thank you so much, not just for saying yes but for everything you do for me. you are so much more than i deserve and i thank whatever brought us together every single day. Thabk you for putting up with me even when im being a dumbass. you mean the world to me, thank you for everything. i really mean it, i hope this brings a smile to your face",
+        message: "I know i cant take you on a date, or give you a gift in person just yet so at the very least i hope this gift can sufice at least for now❤️ ",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
